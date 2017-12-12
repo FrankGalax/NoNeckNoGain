@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -53,6 +54,11 @@ public class PlayerController : MonoBehaviour
         if (m_Animator != null)
         {
             m_Animator.SetFloat("Speed", m_CurrentSpeed.x);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene("main");
         }
     }
 
