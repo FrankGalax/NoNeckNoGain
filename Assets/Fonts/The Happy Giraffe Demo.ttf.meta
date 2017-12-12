@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c1ebe14fdad424a448555c9d5146a691
+timeCreated: 1506215233
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Happy Giraffe
+  fontNames:
+  - The Happy Giraffe
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

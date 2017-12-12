@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 3254f0b3bbb7c044ca9e00b92dd029f3
+timeCreated: 1506174096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BL_Leg_01_BN
+    100002: BL_Leg_02_BN
+    100004: BL_Leg_03_BN
+    100006: BL_Leg_NUB
+    100008: Body_BN
+    100010: BR_Leg_01_BN
+    100012: BR_Leg_02_BN
+    100014: BR_Leg_03_BN
+    100016: BR_Leg_NUB
+    100018: Capsule003
+    100020: FL_Leg_01_BN
+    100022: FL_Leg_02_BN
+    100024: FL_Leg_03_BN
+    100026: FL_Leg_NUB
+    100028: FR_Leg_01_BN
+    100030: FR_Leg_02_BN
+    100032: FR_Leg_03_BN
+    100034: FR_Leg_NUB
+    100036: //RootNode
+    100038: Head_BN
+    100040: Head_NUB
+    100042: Neck_01_BN
+    100044: Neck_02_BN
+    100046: Neck_03_BN
+    100048: Neck_04_BN
+    100050: Neck_05_BN
+    100052: Neck_06_BN
+    100054: Bone001
+    100056: Bone002
+    100058: Bone003
+    100060: Bone004
+    100062: Bone006
+    100064: Neck_06_NUB
+    100066: Point001
+    100068: Point002
+    100070: Point003
+    100072: Point004
+    100074: Point005
+    100076: Point006
+    400000: BL_Leg_01_BN
+    400002: BL_Leg_02_BN
+    400004: BL_Leg_03_BN
+    400006: BL_Leg_NUB
+    400008: Body_BN
+    400010: BR_Leg_01_BN
+    400012: BR_Leg_02_BN
+    400014: BR_Leg_03_BN
+    400016: BR_Leg_NUB
+    400018: Capsule003
+    400020: FL_Leg_01_BN
+    400022: FL_Leg_02_BN
+    400024: FL_Leg_03_BN
+    400026: FL_Leg_NUB
+    400028: FR_Leg_01_BN
+    400030: FR_Leg_02_BN
+    400032: FR_Leg_03_BN
+    400034: FR_Leg_NUB
+    400036: //RootNode
+    400038: Head_BN
+    400040: Head_NUB
+    400042: Neck_01_BN
+    400044: Neck_02_BN
+    400046: Neck_03_BN
+    400048: Neck_04_BN
+    400050: Neck_05_BN
+    400052: Neck_06_BN
+    400054: Bone001
+    400056: Bone002
+    400058: Bone003
+    400060: Bone004
+    400062: Bone006
+    400064: Neck_06_NUB
+    400066: Point001
+    400068: Point002
+    400070: Point003
+    400072: Point004
+    400074: Point005
+    400076: Point006
+    4300000: Capsule003
+    9500000: //RootNode
+    13700000: Capsule003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: e465334f64c84f144bb893a51b0e2167
+timeCreated: 1506258764
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone001(mirrored)
+    100004: Bone002
+    100006: Bone002(mirrored)
+    100008: Bone003
+    100010: Bone003(mirrored)
+    100012: Bone004
+    100014: Bone004(mirrored)
+    100016: Bone005
+    100018: Bone006
+    100020: Bone006(mirrored)
+    100022: Bone007
+    100024: Bone007(mirrored)
+    100026: Bone008
+    100028: Bone008(mirrored)
+    100030: Bone009
+    100032: Bone009(mirrored)
+    100034: Bone010
+    100036: Bone030
+    100038: Bone030(mirrored)
+    100040: Bone031
+    100042: Bone031(mirrored)
+    100044: Bone032
+    100046: Bone033
+    100048: Cylinder001
+    100050: Gir_Head_BN
+    100052: Gir_Head_NUB
+    100054: Gir_Hips_BN
+    100056: Gir_Jaw_BN
+    100058: Gir_Jaw_NUB
+    100060: Gir_Spine_01_BN
+    100062: Gir_Spine_02_BN
+    100064: Gir_Spine_03_BN
+    100066: Gir_Tail_01_BN
+    100068: Gir_Tail_02_BN
+    100070: Gir_Tail_03_BN
+    100072: Gir_Tail_04_BN
+    100074: Gir_Tail_05_BN
+    100076: Gir_Tail_06_BN
+    100078: Gir_Tail_07_NUB
+    100080: //RootNode
+    100082: Point001
+    100084: Point002
+    100086: Point003
+    100088: Point004
+    100090: Point005
+    100092: Point006
+    100094: Point007
+    100096: TopoSurface001
+    400000: Bone001
+    400002: Bone001(mirrored)
+    400004: Bone002
+    400006: Bone002(mirrored)
+    400008: Bone003
+    400010: Bone003(mirrored)
+    400012: Bone004
+    400014: Bone004(mirrored)
+    400016: Bone005
+    400018: Bone006
+    400020: Bone006(mirrored)
+    400022: Bone007
+    400024: Bone007(mirrored)
+    400026: Bone008
+    400028: Bone008(mirrored)
+    400030: Bone009
+    400032: Bone009(mirrored)
+    400034: Bone010
+    400036: Bone030
+    400038: Bone030(mirrored)
+    400040: Bone031
+    400042: Bone031(mirrored)
+    400044: Bone032
+    400046: Bone033
+    400048: Cylinder001
+    400050: Gir_Head_BN
+    400052: Gir_Head_NUB
+    400054: Gir_Hips_BN
+    400056: Gir_Jaw_BN
+    400058: Gir_Jaw_NUB
+    400060: Gir_Spine_01_BN
+    400062: Gir_Spine_02_BN
+    400064: Gir_Spine_03_BN
+    400066: Gir_Tail_01_BN
+    400068: Gir_Tail_02_BN
+    400070: Gir_Tail_03_BN
+    400072: Gir_Tail_04_BN
+    400074: Gir_Tail_05_BN
+    400076: Gir_Tail_06_BN
+    400078: Gir_Tail_07_NUB
+    400080: //RootNode
+    400082: Point001
+    400084: Point002
+    400086: Point003
+    400088: Point004
+    400090: Point005
+    400092: Point006
+    400094: Point007
+    400096: TopoSurface001
+    2300000: Cylinder001
+    3300000: Cylinder001
+    4300000: TopoSurface001
+    4300002: Cylinder001
+    9500000: //RootNode
+    13700000: TopoSurface001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d0ef615359cb91c4284a4f47687383fc
+timeCreated: 1506268768
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _WaterColor: {fileID: 2800000, guid: 9873e404d1d6ff94db69c9d491dd77d8, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
